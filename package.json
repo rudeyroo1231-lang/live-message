@@ -1,0 +1,12 @@
+{
+  "name": "live-message-server",
+  "version": "1.0.0",
+  "description": "Send live messages to players of a Unity game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
